@@ -3,7 +3,7 @@
 ## Aim
 The aim is to design, implement, and analyze a D flip-flop using Cadence EDA tools, ensuring accurate sequential logic operation through waveform analysis and performance verification.
 
-## Tools Required
+## Tools Required 
 
 ### Cadence EDA Suite
 - **Virtuoso Schematic Editor** (for circuit design)
